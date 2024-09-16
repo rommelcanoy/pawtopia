@@ -29,6 +29,7 @@ import Sellers from '../components/Sellers';
 import News from '../components/News';
 import NewsItem, { INewsItem } from '../components/News/NewsItem';
 import { IDogItem } from '../components/Search';
+// import favicon from './favicon.ico';
 
 const Home: NextPage<HomeProps> = ({ dogs, products, news }) => {
   return (
@@ -39,7 +40,7 @@ const Home: NextPage<HomeProps> = ({ dogs, products, news }) => {
           name="description"
           content="Having a pet means you have more joy, a new friend, a happy person who will always be with you to have fun. We have 200+ different pets that can meet your needs!"
         />
-        {/* <link rel="icon" href="/favicon.ico" /> */}
+        <link rel="icon" href='/favicon.ico' type="image/png" />
       </Head>
       <Hero />
       <Section
