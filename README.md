@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/gsV9p4D.jpg)
+<!-- ![alt text](https://i.imgur.com/gsV9p4D.jpg) -->
 
 # Pawtopia Pets Store
 
