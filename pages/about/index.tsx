@@ -8,6 +8,7 @@ const About: NextPage = () => {
     <main className={style.aboutContainer}>
       <div className="container">
         <h1>About Page</h1>
+        <p className={style.emptyMessage}>Not available yet</p>
       </div>
     </main>
   );
